@@ -1,6 +1,6 @@
 Dependencies: SD.h
               TMRpcm.h
 
-Code for oporating a two solenoid pinball flipper mechanism with arduino.
+Code for operating a two solenoid pinball flipper mechanism with Arduino.
 Plays sound from SD card on startup.
     
